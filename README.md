@@ -36,11 +36,14 @@ It implements the classic Scrabble rules with an interactive and colorful board,
 
 3. Build and run the project
 
-📋 Project Details
+## 📋 Project Details
 This project was developed as part of an academic assignment at ESILV - École Supérieure d'Ingénieurs Léonard de Vinci during Nov-Dec 2021.
 It contains around 3000 lines of well-structured C# code implementing object-oriented design principles.
 
-👨‍💻 Author
+## 📸 Screenshot
+![Scrabble](https://github.com/user-attachments/assets/d9b39856-06ec-4db0-ac46-71b0725c028e)
+
+## 👨‍💻 Author
 - Paul Lacoutiere
 
 
