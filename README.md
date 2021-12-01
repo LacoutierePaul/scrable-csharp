@@ -29,7 +29,7 @@ It implements the classic Scrabble rules with an interactive and colorful board,
 
 1. Clone the repository  
  ```bash
- git clone https://github.com/ton-username/Scrabble-CSharp.git
+ git clone https://github.com/LacoutierePaul/Scrabble-CSharp.git
 ```
 
 2. Open the solution file Scrabble-CSharp.sln in Visual Studio
