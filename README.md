@@ -1,4 +1,4 @@
-# Scrabble-CSharp
+# 🧩 Scrabble-CSharp
 
 [![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![IDE](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square)](https://visualstudio.microsoft.com/)
