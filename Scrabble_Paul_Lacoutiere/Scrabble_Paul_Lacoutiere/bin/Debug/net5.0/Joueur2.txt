@@ -1,0 +1,10 @@
+Tata
+34
+Bosser;Iles;Axas
+A;1
+L;1
+E;1
+Q;8
+I;1
+*;0
+A;1

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Scrabble_Paul_Lacoutiere/1.0.0": {
+        "runtime": {
+          "Scrabble_Paul_Lacoutiere.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scrabble_Paul_Lacoutiere/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
