@@ -32,7 +32,7 @@ It implements the classic Scrabble rules with an interactive and colorful board,
  git clone https://github.com/LacoutierePaul/Scrabble-CSharp.git
 ```
 
-2. Open the solution file Scrabble-CSharp.sln in Visual Studio
+2. Open the solution file Scrabble_Paul_Lacoutiere.sln in Visual Studio
 
 3. Build and run the project
 
